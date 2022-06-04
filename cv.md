@@ -1,3 +1,5 @@
+![](https://klike.net/uploads/posts/2019-06/1560329641_2.jpg)
+
 # **Andreeva Yulia**<br/>
 
 <br/>
@@ -31,6 +33,14 @@ college<br/>
 <br/>
 
 ## SKILLS<br/>
+
+```
+public class Multiply {
+    public static Double multiply(Double a, Double b) {
+        return a * b;
+    }
+}
+```
 
 Tester course at Utest Academy
 <br/>

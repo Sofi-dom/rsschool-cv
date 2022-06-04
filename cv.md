@@ -51,3 +51,5 @@ Tester course at Utest Academy
 <br/>
 
 > Responsiveness, politeness, ability to find contact with people.
+
+[Click me: my project](https://github.com/Sofi-dom/rsschool-cv/blob/gh-pages/cv.md)

@@ -1,1 +1,1 @@
-https://github.com/Sofi-dom/rsschool-cv/blob/gh-pages/cv.md
+https://Sofi-dom.github.io/rsschool-cv/cv

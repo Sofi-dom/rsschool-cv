@@ -1,1 +1,1 @@
-https://Sofi-dom.github.io/rsschool-cv/cv
+https://Sofi-dom.github.io/rsschool-cv/
